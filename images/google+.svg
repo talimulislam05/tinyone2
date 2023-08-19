@@ -1,0 +1,13 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36" width="36" height="36">
+	<title>tinyone</title>
+	<style>
+		tspan { white-space:pre } 
+		.t0 { font-size: 42px;line-height: 32px;fill: #fcdb00;font-family: "Font Awesome" } 
+	</style>
+	<g id="Social Connect">
+		<text id="google + ico" style="transform: matrix(1,0,0,1,18.458,33.449)" >
+			<tspan x="-12.6" y="0" class="t0"></tspan><tspan  y="0" class="t0">
+</tspan>
+		</text>
+	</g>
+</svg>
